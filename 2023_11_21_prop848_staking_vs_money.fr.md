@@ -149,25 +149,28 @@ plus favorable. Les récompenses inflationnistes d'un token monétaire sont moin
 susceptibles d'être considérées comme une pénalité pour le non-staking, mais un
 incitatif positif au staking.
 
-## Un Mauvais Précédent Ceux qui ont plaidé en faveur de la #848 ont même
-argumenté qu'ils ne faisaient que mesurer l'intérêt des stakers. Ce changement
-fondamental dans la tokenomie qui va à l'encontre de la sécurité et de la
-stabilité est proposé sans avertissement complet sur le véritable objectif
-(faire d’$ATOM un token monétaire) et ses effets. Il est également proposé sans
-planification suffisante et garanties pour une quelconque cohérence, et sans
-les divulgations nécessaires des risques. En effet, nous n'avons même pas
-encore de Constitution ratifiée pour le Cosmos Hub. De plus, pour aggraver les
-choses, cette proposition est commercialisée comme un "halvening", ce qui
-implique des mouvements de prix attendus, alors que ce qui est proposé n'a rien
-à voir avec le calendrier immuable du halvening de la chaîne Bitcoin.
+## Un Mauvais Précédent
 
-## Une Autre Baisse du Ratio de Staking Comme indiqué dans la proposition, le
-ratio de staking actuel du Cosmos Hub est légèrement inférieur à l'objectif, ne
-dépassant pas le seuil de ⅔. Cette condition existante soulève une
-préoccupation majeure : en réduisant de moitié l'inflation maximale, la
-proposition arrête effectivement l'augmentation du taux de récompense de
-staking, un mécanisme actuellement en place pour dissuader le non-staking et
-pousser le ratio de staking vers l'objectif.
+Ceux qui ont plaidé en faveur de la #848 ont même argumenté qu'ils ne faisaient
+que mesurer l'intérêt des stakers. Ce changement fondamental dans la tokenomie
+qui va à l'encontre de la sécurité et de la stabilité est proposé sans
+avertissement complet sur le véritable objectif (faire d’$ATOM un token
+monétaire) et ses effets. Il est également proposé sans planification
+suffisante et garanties pour une quelconque cohérence, et sans les divulgations
+nécessaires des risques. En effet, nous n'avons même pas encore de Constitution
+ratifiée pour le Cosmos Hub. De plus, pour aggraver les choses, cette
+proposition est commercialisée comme un "halvening", ce qui implique des
+mouvements de prix attendus, alors que ce qui est proposé n'a rien à voir avec
+le calendrier immuable du halvening de la chaîne Bitcoin.
+
+## Une Autre Baisse du Ratio de Staking
+
+Comme indiqué dans la proposition, le ratio de staking actuel du Cosmos Hub est
+légèrement inférieur à l'objectif, ne dépassant pas le seuil de ⅔. Cette
+condition existante soulève une préoccupation majeure : en réduisant de moitié
+l'inflation maximale, la proposition arrête effectivement l'augmentation du
+taux de récompense de staking, un mécanisme actuellement en place pour
+dissuader le non-staking et pousser le ratio de staking vers l'objectif.
 
 Le design du réseau Cosmos ajuste dynamiquement le taux d'inflation pour
 encourager le staking lorsque le ratio de staking est inférieur au seuil
